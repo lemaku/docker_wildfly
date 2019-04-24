@@ -9,9 +9,9 @@
 3. name your .war file 'app.war'
 4. start your project with 
 ```
-docker compose up
+docker-compose up
 ```
 5. cleanup when you're finished with
 ```
-docker compose down
+docker-compose down
 ```
