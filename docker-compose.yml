@@ -8,6 +8,6 @@ services:
       - 9990:9990
    
   derby:
-    image: az82/docker-derby
+    image: az82/docker-derby:v1.3
     ports:
       - 1527:1527
